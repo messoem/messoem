@@ -1,4 +1,4 @@
-- 👋  Hello, I’m 18 y.o. data analysis student from Moscow
+- 👋  Hello, I’m 18 y.o. data analyst student from Moscow
 - 👀 I’m interested in data-analysis, linear algebra, topology, theory of probability and i want to study in School of Data Analysis 
-- 🌱 I’m currently studying on Bachelor's programme in MIREA - Russian Technological University im Moscow 
+- 🌱 I’m currently studying on Bachelor's programme in MIREA - Russian Technological University in Moscow 
 - 📫 if you want to text me, you can novichok.work@gmail.com
