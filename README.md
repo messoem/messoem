@@ -1,4 +1,4 @@
-- 👋  Hello, my name is Arseniy and I am a student from Moscow studying data analysis.
-- 👀 I have a keen interest in machine learning, linear algebra, topology, and probability theory, and I would like to pursue my studies at the School of Data Analysis.
-- 🌱 Currently, I am pursuing a bachelor's degree in data analysis at MIREA - Russian Technological University, based in Moscow.
+- 👋  Hello, my name is Arsenii and I am a student from Moscow studying maths.
+- 👀 I have a keen interest in quasi-monte-carlo mathods and their theoretical properties, machine learning, computational linear algebra, topology, and algebra.
+- 🌱 Currently, I am pursuing a bachelor's degree in Applied Mathematics and Computer Science at MIREA - Russian Technological University.
 
